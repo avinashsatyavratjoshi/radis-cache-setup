@@ -1,0 +1,84 @@
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\appsettings.json
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.exe
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.deps.json
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.runtimeconfig.json
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.pdb
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\RedisCache.Abstract.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\RedisCache.Radis.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\RedisCache.Radis.pdb
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\RedisCache.Abstract.pdb
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.csproj.AssemblyReference.cache
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.AssemblyInfoInputs.cache
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.AssemblyInfo.cs
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.csproj.CoreCompileInputs.cache
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.StackExchangeRedisCache.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.StackExchangeRedisCache.Api.props
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StackExchangeRedisCache.Api.props
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StackExchangeRedisCache.Api.props
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\scopedcss\bundle\StackExchangeRedisCache.Api.styles.css
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.csproj.CopyComplete
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\refint\StackExchangeRedisCache.Api.dll
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.pdb
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.genruntimeconfig.cache
+E:\My Work\Practicals\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\ref\StackExchangeRedisCache.Api.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\appsettings.json
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.exe
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.deps.json
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.runtimeconfig.json
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchangeRedisCache.Api.pdb
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\RedisCache.Radis.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\bin\Debug\net6.0\RedisCache.Radis.pdb
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.csproj.AssemblyReference.cache
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.AssemblyInfoInputs.cache
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.AssemblyInfo.cs
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.csproj.CoreCompileInputs.cache
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.StackExchangeRedisCache.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.StackExchangeRedisCache.Api.props
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StackExchangeRedisCache.Api.props
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StackExchangeRedisCache.Api.props
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\scopedcss\bundle\StackExchangeRedisCache.Api.styles.css
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.csproj.CopyComplete
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\refint\StackExchangeRedisCache.Api.dll
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.pdb
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\StackExchangeRedisCache.Api.genruntimeconfig.cache
+D:\Projects\github\RedisCache\StackExchangeRadisCache\StackExchangeRadisCache.Api\obj\Debug\net6.0\ref\StackExchangeRedisCache.Api.dll

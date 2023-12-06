@@ -1,0 +1,11 @@
+D:\Projects\github\RedisCache\RadisCache.Abstract\bin\Debug\net6.0\RedisCache.Abstract.deps.json
+D:\Projects\github\RedisCache\RadisCache.Abstract\bin\Debug\net6.0\RedisCache.Abstract.dll
+D:\Projects\github\RedisCache\RadisCache.Abstract\bin\Debug\net6.0\RedisCache.Abstract.pdb
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\RedisCache.Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\RedisCache.Abstract.AssemblyInfoInputs.cache
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\RedisCache.Abstract.AssemblyInfo.cs
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\RedisCache.Abstract.csproj.CoreCompileInputs.cache
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\RedisCache.Abstract.dll
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\refint\RedisCache.Abstract.dll
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\RedisCache.Abstract.pdb
+D:\Projects\github\RedisCache\RadisCache.Abstract\obj\Debug\net6.0\ref\RedisCache.Abstract.dll

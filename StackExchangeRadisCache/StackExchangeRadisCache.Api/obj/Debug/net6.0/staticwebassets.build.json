@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HV/c1J1B0nGIJZZNggEf93zpJ7s/x1DKPmlDd1QovwA=",
+  "Source": "StackExchangeRedisCache.Api",
+  "BasePath": "_content/StackExchangeRedisCache.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
